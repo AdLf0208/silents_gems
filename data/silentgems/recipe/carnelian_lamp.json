@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "r": "#c:dusts/redstone",
+    "g": "#c:dusts/glowstone",
+    "o": "#c:gems/carnelian"
+  },
+  "pattern": [
+    "rgr",
+    "gog",
+    "rgr"
+  ],
+  "result": {
+    "id": "silentgems:carnelian_lamp",
+    "count": 1
+  }
+}

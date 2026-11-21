@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "silentgems:kyanite_lamp",
+    "minecraft:redstone_torch"
+  ],
+  "result": {
+    "count": 1,
+    "id": "silentgems:kyanite_lamp_inverted_on"
+  }
+}

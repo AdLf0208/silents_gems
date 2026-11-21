@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "silentgems:heliodor_lamp",
+    "minecraft:redstone_torch"
+  ],
+  "result": {
+    "count": 1,
+    "id": "silentgems:heliodor_lamp_inverted_on"
+  }
+}

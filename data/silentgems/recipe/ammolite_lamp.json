@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "r": "#c:dusts/redstone",
+    "g": "#c:dusts/glowstone",
+    "o": "#c:gems/ammolite"
+  },
+  "pattern": [
+    "rgr",
+    "gog",
+    "rgr"
+  ],
+  "result": {
+    "id": "silentgems:ammolite_lamp",
+    "count": 1
+  }
+}
